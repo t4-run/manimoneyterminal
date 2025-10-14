@@ -1,0 +1,2 @@
+# manimoneyterminal
+mock terminal
